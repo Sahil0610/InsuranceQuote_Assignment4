@@ -140,3 +140,7 @@ C:\Assignment4_SahilShahbuddin\Assignment4_SahilShahbuddin\obj\Debug\Assignment4
 C:\Assignment4_SahilShahbuddin\Assignment4_SahilShahbuddin\obj\Debug\Assignme.546574C3.Up2Date
 C:\Assignment4_SahilShahbuddin\Assignment4_SahilShahbuddin\obj\Debug\Assignment4_SahilShahbuddin.dll
 C:\Assignment4_SahilShahbuddin\Assignment4_SahilShahbuddin\obj\Debug\Assignment4_SahilShahbuddin.pdb
+C:\Assignment4_SahilShahbuddin\Assignment4_SahilShahbuddin\bin\Debug\Assignment4_SahilShahbuddin.dll.config
+C:\Assignment4_SahilShahbuddin\Assignment4_SahilShahbuddin\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Assignment4_SahilShahbuddin\Assignment4_SahilShahbuddin\obj\Debug\Assignment4_SahilShahbuddin.csproj.SuggestedBindingRedirects.cache
+C:\Assignment4_SahilShahbuddin\Assignment4_SahilShahbuddin\obj\Debug\Assignment4_SahilShahbuddin.dll.config

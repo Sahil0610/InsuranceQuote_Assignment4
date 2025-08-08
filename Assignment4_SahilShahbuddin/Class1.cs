@@ -329,8 +329,8 @@ public class DefaultSuiteTest
         driver.FindElement(By.Id("age")).SendKeys("37");
         driver.FindElement(By.Id("experience")).Click();
         driver.FindElement(By.Id("experience")).SendKeys("8");
-        driver.FindElement(By.Id("accidents")).Click();
-        driver.FindElement(By.Id("accidents")).SendKeys("0");
+        //driver.FindElement(By.Id("accidents")).Click();
+        //driver.FindElement(By.Id("accidents")).SendKeys("0");
         driver.FindElement(By.Id("btnSubmit")).Click();
 
         //Assert
@@ -364,8 +364,8 @@ public class DefaultSuiteTest
         driver.FindElement(By.Id("age")).Click();
         driver.FindElement(By.Id("age")).Click();
         driver.FindElement(By.Id("age")).SendKeys("45");
-        driver.FindElement(By.Id("experience")).Click();
-        driver.FindElement(By.Id("experience")).SendKeys("2");
+        //driver.FindElement(By.Id("experience")).Click();
+        //driver.FindElement(By.Id("experience")).SendKeys("2");
         driver.FindElement(By.Id("accidents")).Click();
         driver.FindElement(By.Id("accidents")).SendKeys("0");
         driver.FindElement(By.Id("btnSubmit")).Click();
@@ -536,8 +536,8 @@ public class DefaultSuiteTest
 
         //Act
         driver.FindElement(By.CssSelector(".btn")).Click();
-        driver.FindElement(By.Id("firstName")).Click();
-        driver.FindElement(By.Id("firstName")).SendKeys("Sahil");
+        //driver.FindElement(By.Id("firstName")).Click();
+        //driver.FindElement(By.Id("firstName")).SendKeys("Sahil");
         driver.FindElement(By.CssSelector("body")).Click();
         driver.FindElement(By.Id("lastName")).Click();
         driver.FindElement(By.Id("lastName")).SendKeys("Shahbuddin");
@@ -581,8 +581,8 @@ public class DefaultSuiteTest
         driver.FindElement(By.CssSelector("body")).Click();
         driver.FindElement(By.Id("address")).Click();
         driver.FindElement(By.Id("address")).SendKeys("203 Albert Street");
-        driver.FindElement(By.Id("city")).Click();
-        driver.FindElement(By.Id("city")).SendKeys("Waterloo");
+        //driver.FindElement(By.Id("city")).Click();
+        //driver.FindElement(By.Id("city")).SendKeys("Waterloo");
         driver.FindElement(By.Id("postalCode")).Click();
         driver.FindElement(By.Id("postalCode")).SendKeys("N2L 0K6");
         driver.FindElement(By.Id("phone")).Click();
